@@ -1,2 +1,4 @@
 # DSA_Question
-DSA Questions
+List of question to Revise:
+## Arrays:
+1. Set Matrix Zeros
